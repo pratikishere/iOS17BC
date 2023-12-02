@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "B5030110-48C1-4D60-90F8-3EAD9B8DFD27",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:iOS17BC.xcodeproj",
+        "identifier" : "30BE1FFB2B1B0860009EDFFD",
+        "name" : "iOS17BCTests"
+      }
+    }
+  ],
+  "version" : 1
+}
