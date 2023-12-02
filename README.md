@@ -1,5 +1,5 @@
 # iOS17BC
-When iOS 17 was released the tests for `UIRefreshControl` are breaking, but the same tests are working below iOS 16
+After the release of iOS 17 the tests for `UIRefreshControl` are breaking, but the same tests are working below iOS 17 i.e iOS 16 and below. This repo contains an example to create test that works for iOS 13 to iOS 17 for `UIRefreshControl`
 
 [Credit - Essential Developer](https://www.essentialdeveloper.com/articles/fixing-ios-17-breaking-changes-uirefreshcontrol-viewisappearing-testability-ios-dev-mentoring)
 
